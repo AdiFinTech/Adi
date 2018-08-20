@@ -1,0 +1,21 @@
+git config --global user.email 'mr.naresh.sinha@gmail.com'
+
+git config --list
+
+ls -la
+
+git init
+
+git status
+
+git add -A
+
+git commit
+
+git add -
+
+git add .
+
+git remote add origin https://github.com/AdiFinTech/Adi.git
+
+git push -u origin master
