@@ -19,3 +19,5 @@ git add .
 git remote add origin https://github.com/AdiFinTech/Adi.git
 
 git push -u origin master
+
+asd
