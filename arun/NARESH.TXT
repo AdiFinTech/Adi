@@ -4,7 +4,9 @@ line One
 
 git add *
 
-git push --force https://github.com/AdiFinTech/Adi.git
+git status
 
 git commit -m "second commit"
+
+git push --force https://github.com/AdiFinTech/Adi.git
 
